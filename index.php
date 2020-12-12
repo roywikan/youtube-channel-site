@@ -1,6 +1,9 @@
 <!-- Require header -->
 <?php  require './resources/templates/header.php';?>
-
+<?php
+    include('./phpfunctions.php');
+    addVisitor();
+?>
 <!-- Start Video -->
 <section id="youtubevideos">
     <div class="container">
