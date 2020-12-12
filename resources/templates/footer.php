@@ -16,7 +16,6 @@
 </footer>
 <!-- End Footer -->
 
-
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9.5.4/dist/sweetalert2.all.min.js" integrity="sha256-myW9RSmiD762xqIfz84oisc7k5cq+wDbu9krInQ5JU8=" crossorigin="anonymous"></script>
 
 <!-- Custom JS File -->

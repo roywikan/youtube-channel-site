@@ -15,24 +15,40 @@
         </div>
         <div class="container-1">
             <div class="videoWrapper">
-                <iframe class="left" src="https://www.youtube.com/embed/7anFSQL4fgg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe class="left" src="https://www.youtube.com/embed/rt_-ZSzGFTE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div>
         <div class="container-2-incolumn top">
             <div class="videoWrapper">
-                <iframe  src="https://www.youtube.com/embed/qVESov-voN0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe  src="https://www.youtube.com/embed/HzQH9nBuMLg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div>
         <div class="container-2-incolumn">
             <div class="videoWrapper">
-                <iframe  src="https://www.youtube.com/embed/f2tsy4HHJSM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe  src="https://www.youtube.com/embed/MWCJV6KtbP4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div> 
     </div>
+    
     <div class="container">
         <div class="title">
-            <P>More</P>
+            <P>Fortnite Challenges</P>
         </div>
+        <div class="container-3-inline">
+            <div class="videoWrapper">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/EHF2BoKY20Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </div>   
+        <div class="container-3-inline">
+            <div class="videoWrapper">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/MWCJV6KtbP4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </div>    
+        <div class="container-3-inline">
+            <div class="videoWrapper">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/vKJijvtsDoA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </div> 
         <div class="container-3-inline">
             <div class="videoWrapper">
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/iII_nnOM7hI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -63,7 +79,86 @@
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/BgxOhVYGa-M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div>  
-    </div>       
+    </div>
+
+    <div class="container">
+        <div class="title">
+            <P>Fortnite Season 4 XP Coins</P>
+        </div>
+                <div class="container-3-inline">
+            <div class="videoWrapper">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/bC_PFUJeP_k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </div> 
+        <div class="container-3-inline">
+            <div class="videoWrapper">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/qVESov-voN0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </div>   
+        <div class="container-3-inline">
+            <div class="videoWrapper">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/f2tsy4HHJSM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </div>     
+    </div>      
+
+
+    <div class="container">
+        <div class="title">
+            <P>Fortnite Gameplay</P>
+        </div>
+                <div class="container-3-inline">
+            <div class="videoWrapper">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/SwaVmh14mOc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </div> 
+        <div class="container-3-inline">
+            <div class="videoWrapper">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/HxwFIpdYGXU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </div>   
+        <div class="container-3-inline">
+            <div class="videoWrapper">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/JWBvF9hW1hQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </div>
+        <div class="container-3-inline">
+            <div class="videoWrapper">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/ObL25oSe2Eo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </div> 
+        <div class="container-3-inline">
+            <div class="videoWrapper">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/IfHXQZawoF0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </div>   
+        <div class="container-3-inline">
+            <div class="videoWrapper">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/QtnUAxsnrbM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </div>      
+    </div>        
+
+     <div class="container">
+        <div class="title">
+            <P>Fortnite Wolverine Challenges</P>
+        </div>
+                <div class="container-3-inline">
+            <div class="videoWrapper">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/EHF2BoKY20Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </div> 
+        <div class="container-3-inline">
+            <div class="videoWrapper">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/BgxOhVYGa-M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </div>   
+        <div class="container-3-inline">
+            <div class="videoWrapper">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/fboU7Xuf7ug" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </div>         
+    </div>      
 </section>
 <!-- End Video -->
 

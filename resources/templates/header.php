@@ -7,8 +7,8 @@
     <meta name="HandheldFriendly" content="true">
 
     <!-- Start Meta SEO -->
-    <meta name="description" content="gameplay and mixed videos">
-    <meta name="Keywords" content="youtube videos, som da chuva, fortnite videos, gameplay">
+    <meta name="description" content="Fortnite Challenges">
+    <meta name="Keywords" content="fortnite, new creative hub, fortnite xp coins, fortnite week">
     <meta name="author" content="Gustavo Specht">
     <!-- End Meta SEO -->
 

@@ -11,7 +11,7 @@ function getUserIpAddr(){
         }
         return $ip;
     }
-
+    
 function addVisitor() {
      // path to the file
      $fileLocation = "./files/visitors.json";
@@ -46,5 +46,4 @@ function addVisitor() {
      // closing the file
      fclose($openFile);
 }
-
 ?>
