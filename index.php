@@ -15,70 +15,37 @@
         </div>
         <div class="container-1">
             <div class="videoWrapper">
-                <iframe class="left" src="https://www.youtube.com/embed/rt_-ZSzGFTE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe class="left" src="<?php getCreativeVideo()?>" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div>
         <div class="container-2-incolumn top">
             <div class="videoWrapper">
-                <iframe  src="https://www.youtube.com/embed/HzQH9nBuMLg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe  src="https://www.youtube.com/embed/9dzsKm2YJNc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div>
         <div class="container-2-incolumn">
             <div class="videoWrapper">
-                <iframe  src="https://www.youtube.com/embed/MWCJV6KtbP4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe  src="https://www.youtube.com/embed/8AW7JQt563M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div> 
     </div>
     
     <div class="container">
         <div class="title">
-            <P>Fortnite Challenges</P>
+            <P>Fortnite Quests</P>
         </div>
+        <?php 
+        $videos = getQuestVideos();
+        for ($i = 0; $i < count($videos); $i++) {
+        ?>
         <div class="container-3-inline">
             <div class="videoWrapper">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/EHF2BoKY20Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-        </div>   
-        <div class="container-3-inline">
-            <div class="videoWrapper">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/MWCJV6KtbP4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-        </div>    
-        <div class="container-3-inline">
-            <div class="videoWrapper">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/vKJijvtsDoA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="560" height="315" src="<?php echo $videos[$i]->src?>" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div> 
-        <div class="container-3-inline">
-            <div class="videoWrapper">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/iII_nnOM7hI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-        </div>   
-        <div class="container-3-inline">
-            <div class="videoWrapper">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/hBg16SNf6WQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-        </div>    
-        <div class="container-3-inline">
-            <div class="videoWrapper">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/02RMJfZZxN4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-        </div> 
-         <div class="container-3-inline">
-            <div class="videoWrapper">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/RpQQ1HSFN_4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-        </div>   
-        <div class="container-3-inline">
-            <div class="videoWrapper">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/cdX99lHfdcE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-        </div>    
-        <div class="container-3-inline">
-            <div class="videoWrapper">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/BgxOhVYGa-M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-        </div>  
+        <?php 
+        }
+        ?>   
     </div>
 
     <div class="container">

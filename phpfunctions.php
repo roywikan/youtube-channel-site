@@ -46,4 +46,30 @@ function addVisitor() {
      // closing the file
      fclose($openFile);
 }
+
+function getCreativeVideo() {
+    // path to the file
+    $fileLocation = "./files/season5CreativeVideo.json";
+    // in case the file does not exist it will create one. (w+)
+    $openFile = fopen($fileLocation, "r+");
+
+    $contactFile = file_get_contents($fileLocation);
+    // get the json file and make it a php array with all the information
+    $creativeVideo = json_decode($contactFile);
+    fclose($openFile);
+    echo $creativeVideo[0]->src;
+}
+
+function getQuestVideos() {
+    // path to the file
+    $fileLocation = "./files/season5QuestVideos.json";
+    // in case the file does not exist it will create one. (w+)
+    $openFile = fopen($fileLocation, "r+");
+
+    $contactFile = file_get_contents($fileLocation);
+    // get the json file and make it a php array with all the information
+    $creativeVideo = json_decode($contactFile);
+    fclose($openFile);
+    return $creativeVideo;
+}
 ?>
