@@ -2,17 +2,17 @@
 <section id="socials">
     <div class="container">
         <h5>Follow Me On Socials</h5>
-        <a href="https://www.youtube.com/user/GustavoSpecht" target="_blank" ><i class="fab fa-youtube yout"></i></a>
-        <a href="https://www.linkedin.com/in/guspecht/" target="_blank" ><i class="fab fa-linkedin linkedin"></i></a>
+        <a href="https://www.youtube.com/c/GustavoSpecht" target="_blank" ><i class="fab fa-youtube yout"></i></a>
+        <!--<a href="https://www.linkedin.com/in/guspecht/" target="_blank" ><i class="fab fa-linkedin linkedin"></i></a>-->
         <a href="https://www.instagram.com/guspecht/" target="_blank" ><i class="fab fa-instagram insta"></i></a>
-        <a href="https://www.facebook.com/guspecht" target="_blank" ><i class="fab fa-facebook face"></i></a>
+        <a href="https://www.facebook.com/GustavoSpecht-105156184627868" target="_blank" ><i class="fab fa-facebook face"></i></a>
     </div>
 </section>
 <!-- End Socials -->
 
 <!-- Start Footer -->
 <footer>
-    <p>Copyright &copy;2019 all rights reserved | This template is made by <a href="https://www.gustavospecht.com">Gustavo Specht</a>. V - 1.0.0</p>
+    <p>Copyright &copy;2019 all rights reserved | This template is made by <a href="https://www.gustavospecht.com">Gustavo Specht</a>.</p>
 </footer>
 <!-- End Footer -->
 

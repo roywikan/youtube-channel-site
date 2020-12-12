@@ -6,8 +6,7 @@
     <div class="container">
         <div class="block">
             <h1>About</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil modi nemo, dicta ad exercitationem molestiae consequuntur ducimus nobis est sit id, adipisci asperiores deserunt eius error vitae cupiditate iste blanditiis suscipit at neque, rerum mollitia reiciendis similique? Perferendis ducimus assumenda, suscipit, voluptatem labore error ea sunt iusto, blanditiis porro magnam!</p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident ea, ipsa, error vero alias quia, quidem maiores quasi voluptatibus cum cupiditate eligendi eius obcaecati consectetur ipsam porro! Quisquam porro deserunt perspiciatis id laudantium velit doloremque deleniti iure aliquam eveniet animi, incidunt veniam cupiditate sapiente, fuga accusamus delectus. Provident minima culpa ipsam aliquid dolor deleniti delectus in. A, voluptatem recusandae nulla perferendis, aut commodi, qui eaque dolorum suscipit magnam nobis maiores!</p>
+            <p>I'm a Fortnite player who is going to help you guys with all Week Challenges, Fortnite Secrets and how to get better in Fortnite, also I record gameplay!</p>
         </div>
     </div>
 </section>

@@ -12,17 +12,17 @@
         </div>
         <div class="container-1">
             <div class="videoWrapper">
-                <iframe class="left" src="https://www.youtube.com/embed/GIIV57BiQOc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe class="left" src="https://www.youtube.com/embed/7anFSQL4fgg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div>
         <div class="container-2-incolumn top">
             <div class="videoWrapper">
-                <iframe  src="https://www.youtube.com/embed/Agocao8l0Hs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe  src="https://www.youtube.com/embed/qVESov-voN0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div>
         <div class="container-2-incolumn">
             <div class="videoWrapper">
-                <iframe  src="https://www.youtube.com/embed/hwyZ05eQmo4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe  src="https://www.youtube.com/embed/f2tsy4HHJSM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div> 
     </div>
@@ -32,19 +32,34 @@
         </div>
         <div class="container-3-inline">
             <div class="videoWrapper">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/ZbR6FHEHrUg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/iII_nnOM7hI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div>   
         <div class="container-3-inline">
             <div class="videoWrapper">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/CG9QNgOOS-g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/hBg16SNf6WQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div>    
         <div class="container-3-inline">
             <div class="videoWrapper">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/B8mX5fpRzDc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/02RMJfZZxN4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
-        </div>            
+        </div> 
+         <div class="container-3-inline">
+            <div class="videoWrapper">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/RpQQ1HSFN_4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </div>   
+        <div class="container-3-inline">
+            <div class="videoWrapper">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/cdX99lHfdcE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </div>    
+        <div class="container-3-inline">
+            <div class="videoWrapper">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/BgxOhVYGa-M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </div>  
     </div>       
 </section>
 <!-- End Video -->
